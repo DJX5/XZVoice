@@ -27,9 +27,9 @@ class AlibabaAPI {
 			this.appkey = keyObj.appkey;
 		}else{ 
 			console.log('---------使用内部key----------')
-			this.AccessKeyId = '设置成你在阿里云申请的：AccessKeyId';
-			this.AccessKeySecret = '设置成你在阿里云申请的：AccessKeySecret';
-			this.appkey = '设置成你在阿里云申请的：appkey';
+			this.AccessKeyId = 'LTAI4G1L61YCKHk6SVCcugut';
+			this.AccessKeySecret = 'NnCQ64FVpGKK6aUvoXcqM4cVWWBqsI';
+			this.appkey = 'f3a2b85e63ee8dd37b1b5ad8adf7e203';
 			
 		}
 	}
